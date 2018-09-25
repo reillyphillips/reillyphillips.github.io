@@ -1,0 +1,17 @@
+name: "reillyphillips.github.io"
+output_dir: "."
+navbar:
+  title: "Reilly Phillips"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Cool Links"
+      href: links.html
+    - text: "Pictures"
+      href: pictures.html
+output: 
+  html_document:
+    theme: journal
+    highlight: default

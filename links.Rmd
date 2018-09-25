@@ -1,0 +1,10 @@
+---
+title: "Cool Links"
+---
+
+These are some cool links that are related to me or I find helpful! 
+
+[The CCP Program in Wilkes I graduated from](https://www.wilkescc.edu/career-and-college-promise)
+-------
+[R Markdown Basics](https://rmarkdown.rstudio.com/authoring_basics.html)
+-------

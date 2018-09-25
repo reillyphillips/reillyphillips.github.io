@@ -1,0 +1,27 @@
+---
+title: "Resume Page"
+
+---
+
+Summary of Education
+------
+I graduated from Wilkes Community College in May 2018 with my Associate's degree in Arts and Sciences, I graduated high school at the same time through a Career and College Promise program. At 18 I'm going into my junior year of college at Appalachian State University for my Bachelor's in General Mathematics.
+
+Education Specifics
+-----
+  + Associates in Arts from Wilkes Community College (Graduated 2018)
+  + Bachelor's in General Mathematics from Appalachian State University (2018-2020)
+  + Some experience with programming language (Mostly R)
+  + Experienced with Microsoft Office, Github, RStudio
+
+
+Course's Related to Degree
+-------
+ + Statistical Analysis I
+ + Calculus with Analytical Geometry
+ + Beginning Spanish I and II
+ + Intermediate Spanish I
+ + Data Science
+ + General Statistics
+ 
+ 
